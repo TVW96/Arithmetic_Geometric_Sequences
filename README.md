@@ -1,1 +1,1 @@
-# Arithmetic_Geometric_Sequences
+# Arithmetic & Geometric Sequence Generators
